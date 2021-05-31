@@ -3,15 +3,15 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+trespassers will be prosecuted
 
-This is Version 2 of Auto Filter Bot
+This is officially made for Cinema Club📽
 
-Bot gives button link to files in connected channels on query !
 
-No need to add filters for your files or movies from now on!
 
-For more click <i>help</i></b>"""
+
+
+@madshifter <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
