@@ -7,11 +7,11 @@ trespassers will be prosecuted
 
 This is officially made for Cinema Club📽
 
+@madshifter 
 
 
 
-
-@madshifter <i>help</i></b>"""
+ <i> </i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
