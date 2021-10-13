@@ -22,11 +22,11 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/cinema_clubadmin1")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/aboutlinkask")
                     ]
                 ]
             ),
-            reply_to_message_id=message.message_id
+            reply_to_message_id=message.message_
         )
     except:
         pass
