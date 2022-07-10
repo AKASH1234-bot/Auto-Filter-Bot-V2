@@ -18,7 +18,7 @@ async def start(client, message):
                 [
                     [
                         InlineKeyboardButton("My Dev", url="https://t.me/Madshifter"),
-                        InlineKeyboardButton("Join Group ", url="https://t.me/cinema_clubadmin12"),
+                        InlineKeyboardButton("Join Group ", url="https://t.me/linkcinema1"),
                     ],
                     [
                         InlineKeyboardButton(
